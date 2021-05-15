@@ -23,6 +23,25 @@
       </tags>
   </entry>
   <entry>
+    <title>Java入坑</title>
+    <url>/2021/05/15/Java%E5%85%A5%E5%9D%91/</url>
+    <content><![CDATA[<h3 id="为什么学Java"><a href="#为什么学Java" class="headerlink" title="为什么学Java"></a>为什么学Java</h3><p>无他，就是想搞钱</p>
+<p>好吧，时间经过是这样的。</p>
+<p>小时候家里没有电脑，然后第一次接触电脑后，就陷进去了。留下了深刻的印象。</p>
+<p>后来多次询问一些相关的技术人员，都说学Java好。</p>
+<p>然后就开始了Java学习。</p>
+<p>从此入坑Java！！！</p>
+<p>第一个程序：</p>
+<p>Hello World！！！</p>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>随心记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>基于termux搭建博客</title>
     <url>/2021/05/15/%E5%9F%BA%E4%BA%8Etermux%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<p>习惯于犯懒，喜欢躺着刷手机。但是又想学技术，然后就有了篇文章。</p>

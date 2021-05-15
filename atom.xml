@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-15T12:09:04.460Z</updated>
+  <updated>2021-05-15T13:15:18.432Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java入坑</title>
+    <link href="http://example.com/2021/05/15/Java%E5%85%A5%E5%9D%91/"/>
+    <id>http://example.com/2021/05/15/Java%E5%85%A5%E5%9D%91/</id>
+    <published>2021-05-15T13:09:31.000Z</published>
+    <updated>2021-05-15T13:15:18.432Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;为什么学Java&quot;&gt;&lt;a href=&quot;#为什么学Java&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    
+    
+    <category term="随心记" scheme="http://example.com/tags/%E9%9A%8F%E5%BF%83%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>初次见面</title>
