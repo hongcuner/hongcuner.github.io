@@ -18,4 +18,53 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>基于termux搭建博客</title>
+    <url>/2021/05/15/%E5%9F%BA%E4%BA%8Etermux%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>习惯于犯懒，喜欢躺着刷手机。但是又想学技术，然后就有了篇文章。</p>
+<p>本文将介绍如何使用手机基于Termux搭建博客，涉及Hexo，Termux。</p>
+<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>手机一部（有网）<br>Termux<br>Hexo</p>
+<h2 id="手机安装Termux"><a href="#手机安装Termux" class="headerlink" title="手机安装Termux"></a>手机安装Termux</h2><p>官网下载<a href="https://termux.com/">Termux</a><br>也可以去<a href="https://github.com/termux/termux-app">github仓库</a>下载</p>
+<h2 id="开始本地博客搭建"><a href="#开始本地博客搭建" class="headerlink" title="开始本地博客搭建"></a>开始本地博客搭建</h2><p>1、更新软件</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ pkg update</span><br><span class="line">$ pkg upgrade</span><br></pre></td></tr></table></figure>
+
+<p>2、设置默认编辑器</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">export</span> EDITOR=vi</span><br></pre></td></tr></table></figure>
+
+<p>3、修改软件源</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ </span><br></pre></td></tr></table></figure>
+
+<p>4、安装git</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ pkg install git</span><br></pre></td></tr></table></figure>
+
+<p>5、安装Nodejs</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ pkg install nodejs</span><br></pre></td></tr></table></figure>
+
+<p>6、安装Taobao源</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ npm install -g cnpm --registory=https://registory.npm.taobao.org</span><br></pre></td></tr></table></figure>
+
+<p>7、安装Hexo框架</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ cnpm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+
+<p>8、本地部署</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo init hongcunerblog    <span class="comment">#hongcunerblog是你博客文件存放的文件夹名字</span></span><br><span class="line">$ <span class="built_in">cd</span> hongcuner   <span class="comment">#进入文件夹</span></span><br><span class="line">$ npm install    <span class="comment">#安装依赖包</span></span><br></pre></td></tr></table></figure>
+
+<p>9、本地试运行</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure>
+
+<p>运行后</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">INFO  Validating config</span><br><span class="line">INFO  Start processing</span><br><span class="line">INFO  Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.</span><br></pre></td></tr></table></figure>
+
+<p>复制<a href="http://localhost:4000/">http://localhost:4000</a></p>
+<p>用浏览器打开。</p>
+<p>到此为止本地博客就搭建完毕。</p>
+<p><a href="">部署到远程GitHub</a></p>
+]]></content>
+      <categories>
+        <category>termux</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
 </search>
