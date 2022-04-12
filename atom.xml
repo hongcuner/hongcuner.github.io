@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-15T13:15:18.432Z</updated>
+  <updated>2022-03-29T05:00:48.071Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,49 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>hexo如何发布文章</title>
+    <link href="http://example.com/2022/03/29/hexo%E5%A6%82%E4%BD%95%E5%8F%91%E5%B8%83%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2022/03/29/hexo%E5%A6%82%E4%BD%95%E5%8F%91%E5%B8%83%E6%96%87%E7%AB%A0/</id>
+    <published>2022-03-29T05:00:48.000Z</published>
+    <updated>2022-03-29T05:00:48.071Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>斥巨资买培训课</title>
+    <link href="http://example.com/2021/10/12/%E6%96%A5%E5%B7%A8%E8%B5%84%E4%B9%B0%E5%9F%B9%E8%AE%AD%E8%AF%BE/"/>
+    <id>http://example.com/2021/10/12/%E6%96%A5%E5%B7%A8%E8%B5%84%E4%B9%B0%E5%9F%B9%E8%AE%AD%E8%AF%BE/</id>
+    <published>2021-10-12T13:09:31.000Z</published>
+    <updated>2022-03-29T05:11:07.096Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一、前因（不喜的人可以当作我在瞎扯）&quot;&gt;&lt;a href=&quot;#一、前因（不喜的人可以当作我在瞎扯）&quot; class=&quot;headerlink&quot; title=&quot;一、前因（不喜的人可以当作我在瞎扯）&quot;&gt;&lt;/a&gt;一、前因（不喜的人可以当作我在瞎扯）&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="征程" scheme="http://example.com/categories/%E5%BE%81%E7%A8%8B/"/>
+    
+    
+    <category term="随心记" scheme="http://example.com/tags/%E9%9A%8F%E5%BF%83%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Java入坑</title>
     <link href="http://example.com/2021/05/15/Java%E5%85%A5%E5%9D%91/"/>
     <id>http://example.com/2021/05/15/Java%E5%85%A5%E5%9D%91/</id>
     <published>2021-05-15T13:09:31.000Z</published>
-    <updated>2021-05-15T13:15:18.432Z</updated>
+    <updated>2022-03-29T05:18:50.840Z</updated>
     
     
       
@@ -34,10 +72,12 @@
     
     
     
-    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    <category term="征程" scheme="http://example.com/categories/%E5%BE%81%E7%A8%8B/"/>
     
     
     <category term="随心记" scheme="http://example.com/tags/%E9%9A%8F%E5%BF%83%E8%AE%B0/"/>
+    
+    <category term="技术" scheme="http://example.com/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
@@ -46,7 +86,7 @@
     <link href="http://example.com/2021/05/15/%E5%88%9D%E6%AC%A1%E8%A7%81%E9%9D%A2/"/>
     <id>http://example.com/2021/05/15/%E5%88%9D%E6%AC%A1%E8%A7%81%E9%9D%A2/</id>
     <published>2021-05-15T11:30:30.000Z</published>
-    <updated>2021-05-15T12:09:04.460Z</updated>
+    <updated>2022-03-25T03:38:52.000Z</updated>
     
     
     <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
@@ -62,10 +102,10 @@
   
   <entry>
     <title>基于Termux搭建博客</title>
-    <link href="http://example.com/2021/05/15/%E5%9F%BA%E4%BA%8ETermux%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2021/05/15/%E5%9F%BA%E4%BA%8ETermux%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
+    <link href="http://example.com/2021/05/15/%E5%9F%BA%E4%BA%8Etermux%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/2021/05/15/%E5%9F%BA%E4%BA%8Etermux%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
     <published>2021-05-15T08:26:05.000Z</published>
-    <updated>2021-05-15T13:19:42.154Z</updated>
+    <updated>2022-03-29T05:12:22.443Z</updated>
     
     
       
@@ -80,7 +120,7 @@
     
     
     
-    <category term="Termux" scheme="http://example.com/categories/Termux/"/>
+    <category term="征程" scheme="http://example.com/categories/%E5%BE%81%E7%A8%8B/"/>
     
     
     <category term="技术" scheme="http://example.com/tags/%E6%8A%80%E6%9C%AF/"/>
